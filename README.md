@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Interpretable Machine Learning Models
+# Heart Disease Prediction using Interpretable Machine Learning Models
 
 > Comparative analysis of interpretable machine learning algorithms for heart disease prediction using clinical data from the UCI Cleveland Heart Disease Dataset.
 
